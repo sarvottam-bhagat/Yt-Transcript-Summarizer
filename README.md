@@ -1,0 +1,1 @@
+## Develop a system to extract transcripts from YouTube videos using the Youtube Transcript API, summarize them with Google Gemini’s generative AI model, and display the result in a Streamlit web interface.
