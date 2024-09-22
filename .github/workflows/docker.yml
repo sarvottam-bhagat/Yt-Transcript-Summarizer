@@ -1,4 +1,4 @@
-name: CI/CD for Streamlit App
+name: CI/CD for Streamlittt App
 
 # Trigger the workflow on push to the main branch
 on:
@@ -33,6 +33,6 @@ jobs:
         context: .
         file: ./DockerFile
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/streamlit-app:latest
+        tags: ${{ secrets.DOCKER_USERNAME }}/streamlittt-app:latest
 
     # Step 5: Deploy (optional, depending on where you host the app)
